@@ -1,0 +1,28 @@
+.main{
+    position: absolute;
+    left: 225px;
+    background-color: aqua;
+    padding: 20px;
+}
+body{
+    background-color:wheat;
+}
+a{
+   color: black;
+}
+h1{
+    text-align: center;
+}
+.abc{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    display: inline-block; 
+}
+.cde{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    text-align: center;
+}
